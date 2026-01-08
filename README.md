@@ -1,6 +1,4 @@
-> Observação: os dados utilizados neste projeto são fictícios de estudo, com finalidade exclusivamente educacional e demonstrativa,
- O dashboard foi desenvolvido no Power BI Desktop.
- Prints foram utilizados devido à não publicação online do relatório. 
+> Dados fictícios, utilizados para fins educacionais.
 
 
 # Analise-de-desempenho-produção
@@ -156,6 +154,10 @@ Com base nos resultados obtidos, os próximos passos recomendados são:
 
 - Aprofundar a análise da qualidade, identificando causas de reprovação.
 
+  
 
 
-Este projeto representa um avanço importante para a gestão orientada a dados na indústria, permitindo decisões mais assertivas, maior eficiência operacional e melhoria contínua da qualidade.
+
+### Observação: os dados utilizados neste projeto são fictícios de estudo, com finalidade exclusivamente educacional e demonstrativa,
+📌 O dashboard foi desenvolvido no Power BI Desktop.
+ 📌Prints foram utilizados devido à não publicação online do relatório. 
