@@ -1,3 +1,8 @@
+> Observação: os dados utilizados neste projeto são fictícios de estudo, com finalidade exclusivamente educacional e demonstrativa,
+ O dashboard foi desenvolvido no Power BI Desktop.
+ Prints foram utilizados devido à não publicação online do relatório. 
+
+
 # Analise-de-desempenho-produção
 
 ## 1. Problema de Negócio
@@ -83,6 +88,11 @@ Avaliação do desempenho por diferentes dimensões:
 
 Criação de gráficos e indicadores claros para facilitar a interpretação e comunicação dos resultados com o negócio.
 
+<p align="center">
+  <img src="img/4.png" width="50%">
+  
+</p>
+
 ## 5. Insights da Análise
 
 A análise dos dados permitiu identificar padrões relevantes, como:
@@ -105,7 +115,6 @@ A análise dos dados permitiu identificar padrões relevantes, como:
 <p align="center">
   <img src="img/1.png" width="50%">
   <img src="img/2.png" width="45%">
-  <img src="img/3.png" width="50%">
 </p>
 
 
